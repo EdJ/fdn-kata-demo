@@ -1,10 +1,12 @@
-## Foundation Kata
+# Foundation Kata
 
 This is an opportunity to show off your coding skills!
 
-Please spend no more than 30 minutes on the task :) Please use node.js for your solution, but feel free to break out of the provided folder structure.
+Please spend no more than 30 minutes on the task :) Please use node.js for your solution, but feel free to break out of the provided folder structure. We're happy to accept solutions demonstrating use of TDD.
 
-# The Kata
+Please provide your solution as a separate public copy of this repository.
+
+## The Kata
 
 At Foundation we want to provide a way for our users to configure and run simple workflows. Workflows can have multiple steps, and each step can run a pre-defined function.
 
