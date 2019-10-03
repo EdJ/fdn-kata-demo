@@ -2,7 +2,7 @@
 
 This is an opportunity to show off your coding skills! A kata is just a small, repeatable coding exercise designed to practice your abilities, but we've found that they're a great way for people to demonstrate their programming prowess.
 
-Please spend no more than 30 minutes on the task :) Please use node.js for your solution, but feel free to break out of the provided folder structure. We're happy to accept solutions demonstrating use of TDD.
+Please spend no more than 30 minutes on the task :) Please use node.js for your solution, but feel free to break out of the provided folder structure. We're happy to accept solutions demonstrating use of TDD. Also please note that there's no prize for a 'finished' solution!
 
 Please provide your solution as a separate public copy of this repository.
 
