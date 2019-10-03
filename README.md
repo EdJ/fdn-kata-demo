@@ -8,7 +8,7 @@ Please provide your solution as a separate public copy of this repository.
 
 ## The Kata
 
-At Foundation we want to provide a way for our users to configure and run simple workflows. Workflows can have multiple steps, and each step can run a pre-defined function.
+At Foundation we want to provide a way for our users to configure and run simple workflows. Workflows can have multiple steps, and each step can run a pre-defined function. Please demonstrate, using a limited example, how you would implement such a piece of functionality.
 
 Examples of functions might be:
 
